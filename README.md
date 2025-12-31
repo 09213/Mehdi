@@ -1,1 +1,1 @@
-: html<br><!DOCTYPE html><br><html><br><head><br> <title>وب‌سایت من</title><br></head><br><body><br> <h1>به وب‌سایت من خوش آمدید!</h1><br> <p>این اولین وب‌سایت من با گیت‌هاب است.</p><br></body><br></html><br>
+: html<br><!DOCTYPE html><br><html><br><head><br> <title>وب‌سایت من</title><br></head><br><body><br!</h1>ت.</p><br></body><br></html><br>
